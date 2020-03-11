@@ -1,5 +1,5 @@
 # 敏捷活動規劃宣言
-「敏捷活動規劃宣言」(Manifesto for Agile Event Planning)是一個將「敏捷軟體開發宣言」應用在活動規劃上，並且因為活動規劃與軟體開發有相似之處，除了轉換基本語句也會加上活動規劃上必須要有的內容。
+「敏捷活動規劃宣言」(Manifesto for Agile Event Planning)是一個將[「敏捷軟體開發宣言」(Manifesto for Agile Software Development)](https://agilemanifesto.org/iso/zhcht/manifesto.html)應用在活動規劃與執行上，並且因為活動規劃與軟體開發有相似之處，除了轉換基本語句也會加上活動規劃上必須要有的內容。
 
 ## 核心
 藉著親自並協助他人進行朝著「本然」前進，我們正致力於發掘更優良的教育內容。透過這樣的努力，我們已建立以下價值觀:  
